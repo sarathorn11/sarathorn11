@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<img src="./banner.jpg" alt="👋 Hi there! I'm Rath KH" title="👋 Hi there! I'm Rath KH"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
@@ -28,7 +28,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. Hello, My name is Sarath Orn. I’m 21 years old, I’m the youngest son in my family, basically I come from Siem Reap province but nowadays, I’m living in Phnom Penh City to continue to study about information technology major and to work in a company in the city. I decided to study about information technology because I like it and in the future I want to be full-stack developer.
+Welcome to my GitHub Page. Hello, My name is Sarath Orn. I’m 22 years old, I’m the youngest son in my family, basically I come from Siem Reap province but nowadays, I’m living in Phnom Penh City to continue to study about information technology major and to work in a company in the city. I decided to study about information technology because I like it and in the future I want to be full-stack developer.
 
 </p>
 
