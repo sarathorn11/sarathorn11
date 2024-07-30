@@ -1,19 +1,19 @@
 <img src="./banner.jpg" alt="👋 Hi there! I'm Rath KH" title="👋 Hi there! I'm Rath KH"/>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; margin: auto; width: 80%;">
 
-<a href="https://www.instagram.com/saaraatqn/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.youtube.com/@rath_kh/videos">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/sarath-orn/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
+  <a href="https://www.instagram.com/saaraatqn/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@rath_kh/videos">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/sarath-orn/">
+  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
 
-<a href="https://t.me/technologykh24">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+  <a href="https://t.me/technologykh24">
+  <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
 
 </div>
 <p></p>
