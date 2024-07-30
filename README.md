@@ -124,7 +124,7 @@ Welcome to my GitHub Page. Hello, My name is Sarath Orn. Iâ€™m 22 years old, Iâ€
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9B8zhz0GI2tl-pdKXPy_oIhwH6mpa25SuhA&s" width="58" height="58" alt="dart" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9B8zhz0GI2tl-pdKXPy_oIhwH6mpa25SuhA&s" width="68" height="68" alt="dart" />
       <br>Frappe
     </td>
     <td align="center" width="96">
