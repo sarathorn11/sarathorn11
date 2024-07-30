@@ -136,7 +136,7 @@ Welcome to my GitHub Page. Hello, My name is Sarath Orn. Iâ€™m 22 years old, Iâ€
       <br>Node JS
     </td>
     <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQVQZnfCkzQCt1B3Hw_rpUDR7tHGxmiJLuHg&s" width="48" height="48" alt="dart" />
+        <img src="https://pngimg.com/d/php_PNG43.png" width="48" height="48" alt="dart" />
       <br>PHP
     </td>
     <td align="center" width="96">
