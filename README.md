@@ -135,19 +135,19 @@ Welcome to my GitHub Page. Hello, My name is Sarath Orn. Iâ€™m 22 years old, Iâ€
         <img src="https://w7.pngwing.com/pngs/414/85/png-transparent-nodejs-javascript-runtime-backend-node-js-logo-3d-icon.png" width="48" height="48" alt="dart" />
       <br>Node JS
     </td>
-    <!-- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td> -->
-    <!-- <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td> -->
-    <!-- <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+    <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQVQZnfCkzQCt1B3Hw_rpUDR7tHGxmiJLuHg&s" width="48" height="48" alt="dart" />
+      <br>PHP
     </td>
     <td align="center" width="96">
+        <img src="https://static-00.iconduck.com/assets.00/vue-icon-2048x2048-ttu9fp8c.png" width="48" height="48" alt="dart" />
+      <br>Vue JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" width="48" height="48" alt="dart" />
+      <br>MongoDB
+    </td>
+    <!-- <td align="center" width="96">
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
       <br>Pytest
     </td> -->
