@@ -33,10 +33,10 @@ Welcome to my GitHub Page. Hello, My name is Sarath Orn. Iâ€™m 22 years old, Iâ€
 
 <table>
   <tr>
-    <!-- <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td> -->
+    <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpyMbE_J9vqZNHdpLtZiZ_meZuI2ZHOv_phw1OVd5iGb3uguJ2a6BAUaRi2hrcWKfRcOo&usqp=CAU" alt="icon" width="65" height="65" />
+      <br>Odoo
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
